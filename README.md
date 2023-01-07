@@ -1,2 +1,4 @@
 # Uppercasing-strings
-Setting JS strings to upper case
+
+
+console.log('qwerty'.toUpperCase()); // 'QWERTY'
